@@ -19,3 +19,4 @@ final team project를 위해 크롤링을 해야해서 내용을 정리
 4. pypi로 유용한 기능은 가져갈 예정
 
 
+ 
